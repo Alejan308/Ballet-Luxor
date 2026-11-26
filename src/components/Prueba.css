@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    height: 400px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffff00;
+    gap: 20px;
+}
+
+.caja{
+    width: 100px;
+    height: 100px;
+    color: black;
+}
+
+
+
+
+
+

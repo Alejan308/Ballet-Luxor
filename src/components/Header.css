@@ -1,0 +1,16 @@
+
+.site-header {
+    align-items: center;
+    background-color: #290151;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.logo img {
+    width: auto;
+    height: 100px;
+    margin: 5px;
+    border-radius: 70%;
+}
+
+
